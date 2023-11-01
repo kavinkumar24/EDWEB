@@ -1,0 +1,56 @@
+.paper {
+    position: absolute;
+    top: -50px;
+    width: 50px;
+    height: 70px;
+    transform: skew(-10deg) rotate(-8deg);
+    animation: fall 2s linear infinite;
+    
+  }
+  
+  .paper:nth-child(1) {
+    left: 10%;
+    background-color: #FEB2B2;
+  }
+  
+  .paper:nth-child(2) {
+    left: 30%;
+    background-color: #FBD38D;
+  }
+  
+  .paper:nth-child(3) {
+    left: 50%;
+    background-color: #9AE6B4;
+  }
+  
+  .paper:nth-child(4) {
+    left: 70%;
+    background-color: #81E6D9;
+  }
+  
+  .paper:nth-child(5) {
+    left: 90%;
+    background-color: #A3BFFA;
+  }
+  .paper:nth-child(6) {
+    left: 90%;
+    background-color: #0b50f2;
+  }
+  
+  .paper:nth-child(7) {
+    left: 90%;
+    background-color: #0e1628;
+  }
+  .paper:nth-child(8) {
+    left: 90%;
+    background-color: #0e1628;
+  }
+  
+  
+  @keyframes fall {
+    to {
+      top: calc(100% + 50px);
+      transform: skew(10deg) rotate(8deg);
+    }
+  }
+  
