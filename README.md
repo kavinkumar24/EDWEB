@@ -1,9 +1,4 @@
-# Elstar - Lite
-
-This is a lite version of Elstar - React Tailwind Admin Template
-
-Full version: [demo](https://elstar.themenate.net/) | [download](https://themeforest.net/item/elstar-react-tailwind-admin-template/39768117)
-
+# Edweb
 
 ## Prerequisites
 
