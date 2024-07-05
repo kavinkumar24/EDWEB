@@ -1,5 +1,5 @@
 # Edweb
-
+=> This project involves the development of a website that serves as an educational platform, providing a wide range of resources and materials for both students and teachers. The website aims to enhance the learning experience by offering study guides, tutorials, interactive quizzes, and downloadable resources.
 ## Prerequisites
 
 - node
