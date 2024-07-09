@@ -18,6 +18,23 @@ For students, the website offers study guides that cover various subjects and to
 # Courses view 
 ![EDWEB](public/images/s3.png)
 
+# Quizz page
+![EDWEB](public/images/s4.png)
+
+# Full score celebrating thing in quizz page
+![EDWEB](public/images/s5.png)
+
+# Viewing pdf materials
+![EDWEB](public/images/s6.png)
+
+# Showing grid layout video materials
+![EDWEB](public/images/s7.png)
+
+# Showing video in a model without Advertisment
+![EDWEB](public/images/s8.png)
+
+
+
 ## Prerequisites
 
 - node
