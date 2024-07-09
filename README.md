@@ -10,8 +10,9 @@ For students, the website offers study guides that cover various subjects and to
 
 ## Working prototype of the project:
 # Login page
-[!EDWEB](public/images/s1.png)
+![EDWEB](public/images/s1.png)
 
+# 
 ## Prerequisites
 
 - node
