@@ -12,7 +12,12 @@ For students, the website offers study guides that cover various subjects and to
 # Login page
 ![EDWEB](public/images/s1.png)
 
-# 
+# Dashboard view
+![EDWEB](public/images/s2.png)
+
+# Courses view 
+![EDWEB](public/images/s3.png)
+
 ## Prerequisites
 
 - node
@@ -30,8 +35,3 @@ To get started follow this steps:
 ## Building Project
 
 To build the app for production run `npm run build`
-
-## Documentation
-[documentation](https://elstar.themenate.net/docs/documentation/introduction)
-
-### Get [full version](https://themeforest.net/item/elstar-react-tailwind-admin-template/39768117) to unclock all components & features
