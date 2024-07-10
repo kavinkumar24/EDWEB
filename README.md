@@ -41,6 +41,9 @@ For students, the website offers study guides that cover various subjects and to
 - npm
 - yarn (optional)
 
+## steps 
+ - npm install
+ - npm start
 
 ## Installation and Run locally
 
