@@ -6,6 +6,9 @@ For students, the website offers study guides that cover various subjects and to
 # Outcome:
 • The outcome of the project, developed using React, is an educational website that brings a unique and engaging learning experience to users. Leveraging React's interactive user interface capabilities, the webpage offers a dynamic and responsive interface, allowing users to navigate quizzes, study materials, and other sections seamlessly. Real-time updates enhance user engagement by providing instant feedback and progress tracking. The project's use of React's modular architecture ensures scalability and maintainability, enabling easy extension of functionality and streamlined maintenance tasks. 
 
+# Methodology: 
+The methodology for developing the educational webpage begins with defining clear objectives and gathering relevant content. The design and wireframing phase focuses on creating an intuitive user experience and visually appealing interface. React is chosen as the primary technology, and additional libraries and APIs are integrated as needed.
+
 
 
 ## Working prototype of the project:
