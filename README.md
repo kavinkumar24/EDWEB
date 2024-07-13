@@ -57,4 +57,4 @@ To get started follow this steps:
 
 ## Building Project
 
-To build the app for production run `npm run build`
+To build the app for production run `npm start`
